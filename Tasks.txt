@@ -1,0 +1,34 @@
+
+
+Thursday:
+1.Data Management Lab from last week
+
+
+Mid Terms:
+Sociology: Oct 6
+Data Management: Oct 8
+System Programming: Oct 21
+Design and Analyze of Algorithm: Oct 23
+Software and Architecture: Oct 24
+
+Project Deadline:
+Data Management: 
+	Phase I: Oct 13
+	Phase II: Nov 03
+	Final: Nov 17
+
+Algorithm:
+ 	Oct. 1: Dataset exploration & preprocessing.
+	Oct. 12: Submit the train and evaluate Linear Regression model result.
+	Nov. 3: Implement SOH threshold-based decision logic & Chatbot development and
+		ChatGPT integration.
+	Nov. 24: Presentation and report submission.
+
+Software & Architecture:
+	Oct 28th: requirement analysis
+	Nov 16th: ADD Iteration
+	Dec 6th: Final Project
+
+
+System Programming:
+	

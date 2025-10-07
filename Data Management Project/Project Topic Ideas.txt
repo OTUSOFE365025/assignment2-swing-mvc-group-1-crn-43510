@@ -1,0 +1,4 @@
+1. Hospital Patient Management
+2. Event Booking System
+3. Hotel Reservation System
+4. Warehouse inventory management system

@@ -1,0 +1,74 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="H91liwE9wBQgjbrJJtVE">
+    <mxGraphModel dx="1042" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RBDKUaahIwVorlPPK7wA-1" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-2" target="RBDKUaahIwVorlPPK7wA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-2" value="Component" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-3" target="RBDKUaahIwVorlPPK7wA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-3" value="Container" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-4" target="RBDKUaahIwVorlPPK7wA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="320" />
+              <mxPoint x="388" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-4" value="WIndow" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-5" target="RBDKUaahIwVorlPPK7wA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-5" value="Panel" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-6" target="RBDKUaahIwVorlPPK7wA-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="320" />
+              <mxPoint x="443" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-6" value="JCompoent" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-12" value="Java&#39;s Swing provides the JComponent to build the GUI, such as Jbutton and JTable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-15" target="RBDKUaahIwVorlPPK7wA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-15" value="Frame" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-16" target="RBDKUaahIwVorlPPK7wA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-16" value="Dialog" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBDKUaahIwVorlPPK7wA-17" target="RBDKUaahIwVorlPPK7wA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBDKUaahIwVorlPPK7wA-17" value="Applet" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
